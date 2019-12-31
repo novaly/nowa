@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nowa/nw-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nowa/nw-app/static/js/main.1655db28.chunk.js",
+    "main.js.map": "/nowa/nw-app/static/js/main.1655db28.chunk.js.map",
+    "runtime-main.js": "/nowa/nw-app/static/js/runtime-main.b750fbaa.js",
+    "runtime-main.js.map": "/nowa/nw-app/static/js/runtime-main.b750fbaa.js.map",
+    "static/js/2.d0d14246.chunk.js": "/nowa/nw-app/static/js/2.d0d14246.chunk.js",
+    "static/js/2.d0d14246.chunk.js.map": "/nowa/nw-app/static/js/2.d0d14246.chunk.js.map",
+    "index.html": "/nowa/nw-app/index.html",
+    "precache-manifest.3148d02463dd76cb87bb47deb83785eb.js": "/nowa/nw-app/precache-manifest.3148d02463dd76cb87bb47deb83785eb.js",
+    "service-worker.js": "/nowa/nw-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nowa/nw-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.d0d14246.chunk.js.LICENSE": "/nowa/nw-app/static/js/2.d0d14246.chunk.js.LICENSE",
+    "static/media/logo.svg": "/nowa/nw-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b750fbaa.js",
+    "static/js/2.d0d14246.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1655db28.chunk.js"
+  ]
+}
